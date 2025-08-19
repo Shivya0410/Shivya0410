@@ -2,17 +2,6 @@
 <h1 align="center">Hi, I'm Shivya 🫶✨</h1>
 <p align="center">
   <i>AI/ML • Full-Stack • Open Source</i>
-</p>
-
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME?tab=followers">
-    <img alt="Followers" src="https://img.shields.io/github/followers/YOUR_USERNAME?style=flat">
-  </a>
-  <a href="https://github.com/YOUR_USERNAME/YOUR_REPO">
-    <img alt="Stars" src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER%2CCOLLABORATOR&style=flat">
-  </a>
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat">
-</p>
 
 ---
 
@@ -40,7 +29,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="32" alt="Kubernetes"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="32" alt="GCP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="32" alt="AWS"/>
   <!-- DB -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" alt="PostgreSQL"/>
@@ -54,13 +42,13 @@
 <p align="center">
   <!-- GitHub Stats -->
   <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&include_all_commits=true&hide_border=true"
-    alt="YOUR_USERNAME's GitHub stats"
+    src="https://github-readme-stats.vercel.app/api?username=Shivya0410&show_icons=true&count_private=true&include_all_commits=true&hide_border=true"
+    alt="Shivya0410's GitHub stats"
     height="170"
   />
   <!-- Top Languages -->
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=10&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivya0410&layout=compact&langs_count=10&hide_border=true"
     alt="Top Languages"
     height="170"
   />
@@ -69,7 +57,7 @@
 <p align="center">
   <!-- Streak -->
   <img
-    src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true"
+    src="https://streak-stats.demolab.com?user=Shivya0410&hide_border=true"
     alt="GitHub Streak"
     height="170"
   />
@@ -78,7 +66,7 @@
 <!-- Trophies -->
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&row=1&column=7&margin-w=10&margin-h=10&no-frame=true"
+    src="https://github-profile-trophy.vercel.app/?username=Shivya0410&row=1&column=7&margin-w=10&margin-h=10&no-frame=true"
     alt="Trophies"
   />
 </p>
@@ -86,7 +74,7 @@
 <!-- Activity Graph -->
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&hide_border=true&area=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Shivya0410&hide_border=true&area=true"
     alt="GitHub Activity Graph"
   />
 </p>
@@ -96,13 +84,10 @@
 ## 🌐 Find me around the web
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR_USERNAME/">
+  <a href="https://www.linkedin.com/in/shivya-khandpur-812895247/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-000000.svg?logo=vercel&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:khandpurshivya@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
