@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm YOUR_NAME</h1>
+<h1 align="center">Hi, I'm Shivya 🫶✨</h1>
 <p align="center">
   <i>AI/ML • Full-Stack • Open Source</i>
 </p>
